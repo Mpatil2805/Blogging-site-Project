@@ -1,0 +1,22 @@
+{
+  "name": "blogging-site",
+  "version": "1.0.0",
+  "description": "Blogging Site Mini Project Requirement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekChauhan9036/Blogging-Site-Mini-Project-Requirement.git"
+  },
+  "author": "Abhishek Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekChauhan9036/Blogging-Site-Mini-Project-Requirement/issues"
+  },
+  "homepage": "https://github.com/AbhishekChauhan9036/Blogging-Site-Mini-Project-Requirement#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
